@@ -33,13 +33,16 @@
    - Live Demo: [Click here](https://SnehaSoni321.github.io/food-landing-page-html-css/)
      
 2. **Portfolio Website 💼** – HTML & CSS  
-   - Showcases personal projects and skills in a clean layout  
+   - Showcases personal projects and skills in a clean layout
+   - Live Demo: [Click here](https://SnehaSoni321.github.io/OIBSIP_domain_taskno./portfolio/)   
 
 3. **Temperature Converter 🌡️** – HTML, CSS & JavaScript  
-   - A small interactive web app to convert temperatures between Celsius, Fahrenheit, and Kelvin  
+   - A small interactive web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
+   - Live Demo: [Click here](https://SnehaSoni321.github.io/OIBSIP_domain_taskno./temperature-converter/)  
 
 4. **Landing Page Project 🖥️** – HTML & CSS  
-   - Another beginner-friendly page focusing on layout and design  
+   - Another beginner-friendly page focusing on layout and design
+   - Live Demo: [Click here](https://SnehaSoni321.github.io/OIBSIP_domain_taskno./Landing_Page/)  
 ---
 
 ## 📫 Contact Me
