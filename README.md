@@ -33,7 +33,7 @@
    - Live Demo: [Click here](https://SnehaSoni321.github.io/food-landing-page-html-css/)
      
 2. **Portfolio Website 💼** – HTML & CSS  
-   - Showcases personal projects and skills in a clean layout
+   - A responsive template created as part of internship exercises
    - Live Demo: [Click here](https://SnehaSoni321.github.io/OIBSIP_domain_taskno./portfolio/)   
 
 3. **Temperature Converter 🌡️** – HTML, CSS & JavaScript  
