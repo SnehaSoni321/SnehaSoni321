@@ -47,5 +47,5 @@
 
 ## 📫 Contact Me
 
-- LinkedIn: linkedin.com/in/sneha-soni-b8288a356
+- LinkedIn: https://www.linkedin.com/in/sneha-soni-b8288a356
 - Email: snehasoni598@gmail.com
