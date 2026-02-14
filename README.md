@@ -32,9 +32,9 @@
     - A simple and responsive landing page with beginner-friendly design    
    - Live Demo: [Click here](https://SnehaSoni321.github.io/food-landing-page-html-css/)
      
-2. **Portfolio Website 💼** – HTML & CSS  
-   - A responsive template created as part of internship exercises
-   - Live Demo: [Click here](https://SnehaSoni321.github.io/OIBSIP_domain_taskno./portfolio/)   
+2. **To-Do List 📝** – HTML, CSS & JavaScript
+   - A simple interactive web application that allows users to add, delete, and mark tasks as completed. Tasks are stored using browser local storage so data remains saved after refresh.
+   - Live Demo: [Click here](https://snehasoni321.github.io/To-Do-List/)   
 
 3. **Temperature Converter 🌡️** – HTML, CSS & JavaScript  
    - A small interactive web app to convert temperatures between Celsius, Fahrenheit, and Kelvin
