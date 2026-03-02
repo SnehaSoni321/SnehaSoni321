@@ -20,10 +20,10 @@
 
 ## 💻 Skills
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Tools:** VS Code, Git, GitHub  
-- **Concepts:** Responsive Design, Version Control, Basic JS Logic  
-
+**Frontend:** HTML, CSS, Basic JavaScript  
+**Tools:** VS Code, Git, GitHub  
+**Concepts:** Responsive Design, Version Control, Basic JS Logic  
+**Programming Languages:** Java
 ---
 
 ## 📂 Projects
