@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sneha Soni
 
 🎓 **B.Tech Student | Web Development Enthusiast**  
-🌱 **Currently exploring:** HTML, CSS, Basic JavaScript, Java, DSA  
+🌱 **Currently exploring:** HTML, CSS, JavaScript, Java, DSA  
 💻 **Pronouns:** she/her  
 
 ---
